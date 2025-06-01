@@ -1,2 +1,1 @@
-this is ...
-![Loading Animation](https://media.giphy.com/media/ABC123/loading.gif) 
+This program is  which is written in Python to display your age category 😊
