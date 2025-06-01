@@ -1,4 +1,5 @@
 # Program to determine your age category
+
 while True:
     try:    
         age = int(input("Enter your age : "))
